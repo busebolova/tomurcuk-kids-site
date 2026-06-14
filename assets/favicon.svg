@@ -1,14 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" fill="none">
-  <rect width="48" height="48" rx="12" fill="#16A34A"/>
-  <rect x="2" y="2" width="44" height="44" rx="10" stroke="rgba(255,255,255,0.15)" stroke-width="1" fill="none"/>
-  <text
-    x="24"
-    y="34"
-    text-anchor="middle"
-    font-family="'Poppins', 'Inter', 'Helvetica Neue', Arial, sans-serif"
-    font-size="28"
-    font-weight="700"
-    letter-spacing="-0.5"
-    fill="white"
-  >T</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <rect width="64" height="64" rx="18" fill="#F6EBC8"/>
+  <path d="M20 18c4.5-5 8-6 12-6s7.5 1 12 6" stroke="#D2A24D" stroke-width="2.5" stroke-linecap="round"/>
+  <ellipse cx="23" cy="19" rx="5" ry="4" stroke="#D2A24D" stroke-width="2.5"/>
+  <ellipse cx="32" cy="16" rx="5" ry="4.2" stroke="#D2A24D" stroke-width="2.5"/>
+  <ellipse cx="41" cy="18" rx="4.8" ry="4" stroke="#D2A24D" stroke-width="2.5"/>
+  <path d="M31 24c-7 8-8 18-6 27" stroke="#225A46" stroke-width="2.8" stroke-linecap="round"/>
+  <circle cx="27" cy="41" r="5" fill="#EF7B6A"/>
+  <circle cx="41" cy="40" r="5" fill="#6DB6E8"/>
+  <circle cx="34" cy="30" r="4.5" fill="#F16C2C"/>
 </svg>
